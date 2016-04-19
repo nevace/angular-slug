@@ -1,11 +1,11 @@
 {
-  "name": "angular-slug",
+  "name": "angular-slug-updated",
   "main": "angular-slug.js",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "authors": [
     "Lucas Constantino Silva"
   ],
-  "description": "An AngularJS wrapper arround the slug library",
+  "description": "An AngularJS wrapper arround the slug library, updated to latest slug library",
   "keywords": [
     "angular",
     "AngularJS",
@@ -22,7 +22,7 @@
     "tests"
   ],
   "dependencies": {
-    "slug": "~0.8.0",
+    "slug": "0.9.1",
     "angular": "~1.3.15"
   }
 }
